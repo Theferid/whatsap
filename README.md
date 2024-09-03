@@ -27,7 +27,7 @@ jarvis md is Multi Device whatsapp bot
 
 2. Now Deploy
     <br>
-<a href='https://jarvis.lokiser.xyz/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://Theferid.xyz/railway.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 #### DEPLOY TO KOYEB 
 
